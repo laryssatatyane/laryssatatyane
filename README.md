@@ -1,6 +1,13 @@
 ## Oiii, eu sou a Laryssa Tatyane, uma apaixonada por tecnologia!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laryssatatyane)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Brunalu28">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laryssatatyane&theme=swift&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryssatatyane&layout=compact&langs_count=7&theme=swift"/>
+</div>
+
+<br>
+<h2 align="auto"> Languages and Tools 💡 </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -9,9 +16,11 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
-  ##
- 
+
+<br>
+<h2 align="auto"> Get in touch 📲 </h2>
+<br>
+
 <div>
   <a href="https://instagram.com/laryssatatyane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:laryssatatyanefarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
