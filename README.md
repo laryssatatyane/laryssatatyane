@@ -1,4 +1,4 @@
-## Oiii, eu sou a Laryssa Tatyane, uma apaixonada por tecnologia!
+## Oiii, eu sou a Laryssa Tatyane, disposta a aprender tudo sobre tecnologia.
 
 <div align="center">
   <a href="https://github.com/Brunalu28">
