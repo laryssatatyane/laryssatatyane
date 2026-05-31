@@ -9,4 +9,4 @@ Como parte do meu trabalho com avaliação de modelos de linguagem, utilizo diar
 * *Qualidade Linguística:* Garantia de fluidez, tom de voz e adequação cultural (PT-BR/EN).
 
 ### 📚 Experiência Acadêmica
-* *Professora de Língua Portuguesa:* Atuei na educação básica, desenvolvendo expertise em análise textual e estruturação da linguagem.
+* *Professora de Língua Portuguesa:* Atuei na educação básica, desenvolvendo pesquisas em análise textual, Política Educacional e estruturação da linguagem.
